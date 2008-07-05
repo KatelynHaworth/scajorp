@@ -1,5 +1,4 @@
 
-
 = Introduction =
 
 1. Getting the code
@@ -28,6 +27,7 @@ _Goto_: http://localhost:8080/ , look at the tiny raw example and at the corresp
 3. *Use* Scajorp in your own application:
 
 mvn install the scajorp-api file and put it on your classpath.
-subclass "ScajorpApplication" and override method init() (see scajorp-examples)
-use scajorp.js (from scajorp-examples, or any other jsonrpc client) in your html files
 
+subclass "ScajorpApplication" and override method init() (see scajorp-examples)
+
+use scajorp.js (from scajorp-examples, or any other jsonrpc client) in your html files
