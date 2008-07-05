@@ -1,4 +1,4 @@
-= Introduction =
+= Content =
 
 1. Getting the code
 
@@ -9,9 +9,11 @@
 
 = Details =
 
+
 === Checkout ===
 
 svn checkout http://scajorp.googlecode.com/svn/trunk/ scajorp-read-only
+
 
 
 
@@ -23,6 +25,7 @@ _Run_:  cd scajorp-read-only/scajorp-examples
 _Run_:  mvn jetty:run
 
 _Goto_: http://localhost:8080/ , look at the tiny raw example and at the corresponding JS code.
+
 
 
 
