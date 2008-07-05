@@ -1,4 +1,3 @@
-
 = Introduction =
 
 1. Getting the code
@@ -15,6 +14,8 @@
 svn checkout http://scajorp.googlecode.com/svn/trunk/ scajorp-read-only
 
 
+
+
 2. *Run* the examples:
 
 _Run_:  cd scajorp-read-only/scajorp-examples
@@ -22,6 +23,8 @@ _Run_:  cd scajorp-read-only/scajorp-examples
 _Run_:  mvn jetty:run
 
 _Goto_: http://localhost:8080/ , look at the tiny raw example and at the corresponding JS code.
+
+
 
 
 3. *Use* Scajorp in your own application:
